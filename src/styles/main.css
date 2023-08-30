@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: wixMadefor;
+  src: url("../assets//font.ttf");
+}
+body {
+  background: #000000 !important;
+  font-family: wixMadefor;
+}
+:root{
+  font-size: 60%;
+  font-family: wixMadefor;
+}
